@@ -4,6 +4,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 ## Link das atividades:
 - Tarefa da aula 03 - Limpeza de Dados
 - Tarefa da aula 04 - Visualização de dados
+- Tarefa da aula 05 - Visualização e padrões
 
 Abaixo no Google Colab:
 https://colab.research.google.com/drive/1IPnnpzURanDtomBoqXgvB2xvZRWsSB7q?usp=sharing
