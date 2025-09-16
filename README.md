@@ -9,4 +9,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 Abaixo no Google Colab:
 https://colab.research.google.com/drive/1IPnnpzURanDtomBoqXgvB2xvZRWsSB7q?usp=sharing
 
+Dataset limpo para utilizar:
+- Baixar o `dailyActivity_clean.csv`
+
 #### Feito por Marco Leone Merini
