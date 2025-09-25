@@ -5,9 +5,16 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 - Tarefa da aula 03 - Limpeza de Dados
 - Tarefa da aula 04 - Visualização de dados
 - Tarefa da aula 05 - Visualização e padrões
+- Tarefa da aula 7 - Novo projeto (dois notebooks separados)
 
-Abaixo no Google Colab:
+Google Colab:
 https://colab.research.google.com/drive/1IPnnpzURanDtomBoqXgvB2xvZRWsSB7q?usp=sharing
+
+## Notebook 1: EDA Projeto de Regressão (Preços de Carros)
+https://colab.research.google.com/drive/15FRevqtvpaEWEGoONW_l4niHTAgmIF8H?authuser=1#scrollTo=COznvBrNtOg8
+
+## Notebook 2: Análise Exploratória de Dados: Projeto de Classificação (Churn)
+https://colab.research.google.com/drive/1ql6FltOQyCh_Dle6f9Rkb-ximmho3ZsR?authuser=1#scrollTo=H0LKTQKwuczO
 
 Dataset limpo para utilizar:
 - Baixar o `dailyActivity_clean.csv`
