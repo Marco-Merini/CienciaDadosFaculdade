@@ -11,10 +11,10 @@ Google Colab:
 https://colab.research.google.com/drive/1IPnnpzURanDtomBoqXgvB2xvZRWsSB7q?usp=sharing
 
 ## Notebook 1: EDA do Projeto de Classificação (Churn)
-https://colab.research.google.com/drive/1ql6FltOQyCh_Dle6f9Rkb-ximmho3ZsR?authuser=1#scrollTo=H0LKTQKwuczO
+https://colab.research.google.com/drive/1ql6FltOQyCh_Dle6f9Rkb-ximmho3ZsR?usp=sharing
 
 ## Notebook 2: EDA do Projeto de Regressão (Preços de Carros)
-https://colab.research.google.com/drive/15FRevqtvpaEWEGoONW_l4niHTAgmIF8H?authuser=1#scrollTo=COznvBrNtOg8
+https://colab.research.google.com/drive/15FRevqtvpaEWEGoONW_l4niHTAgmIF8H?usp=sharing
 
 Dataset limpo para utilizar:
 - Baixar o `dailyActivity_clean.csv`
