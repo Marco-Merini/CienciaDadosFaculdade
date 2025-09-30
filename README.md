@@ -6,6 +6,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 - Tarefa da aula 04 - Visualização de dados
 - Tarefa da aula 05 - Visualização e padrões
 - Tarefa da aula 7 - Novo projeto (dois notebooks separados)
+- Tarefa da aula 8: Modelo de Classificação
 
 Google Colab:
 https://colab.research.google.com/drive/1IPnnpzURanDtomBoqXgvB2xvZRWsSB7q?usp=sharing
@@ -15,6 +16,9 @@ https://colab.research.google.com/drive/1ql6FltOQyCh_Dle6f9Rkb-ximmho3ZsR?usp=sh
 
 ## Notebook 2: EDA do Projeto de Regressão (Preços de Carros)
 https://colab.research.google.com/drive/15FRevqtvpaEWEGoONW_l4niHTAgmIF8H?usp=sharing
+
+## Modelo de Classificação:
+https://colab.research.google.com/drive/1bCmICorpOecLp42rfmh2fCevJQjR70cW?usp=sharing
 
 Dataset limpo para utilizar:
 - Baixar o `dailyActivity_clean.csv`
