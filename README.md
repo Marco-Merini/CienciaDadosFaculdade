@@ -7,6 +7,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 - Tarefa da aula 05 - Visualização e padrões
 - Tarefa da aula 7 - Novo projeto (dois notebooks separados)
 - Tarefa da aula 8: Modelo de Classificação
+- Tarefa da aula 9: Modelo de Regressão
 
 Google Colab:
 https://colab.research.google.com/drive/1IPnnpzURanDtomBoqXgvB2xvZRWsSB7q?usp=sharing
@@ -19,6 +20,9 @@ https://colab.research.google.com/drive/15FRevqtvpaEWEGoONW_l4niHTAgmIF8H?usp=sh
 
 ## Modelo de Classificação:
 https://colab.research.google.com/drive/1bCmICorpOecLp42rfmh2fCevJQjR70cW?usp=sharing
+
+## Modelo de Regressão
+https://colab.research.google.com/drive/1gXZo4yGBozJ2E6CQ0upR53jjd8aKTxtT?usp=sharing
 
 Dataset limpo para utilizar:
 - Baixar o `dailyActivity_clean.csv`
