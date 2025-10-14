@@ -8,6 +8,7 @@ https://www.kaggle.com/datasets/arashnic/fitbit
 - Tarefa da aula 7 - Novo projeto (dois notebooks separados)
 - Tarefa da aula 8: Modelo de Classificação
 - Tarefa da aula 9: Modelo de Regressão
+- Tarefa da aula 10: Avaliação de Modelos: arquivos atualizados na seção "AULA 10"
 
 Google Colab:
 https://colab.research.google.com/drive/1IPnnpzURanDtomBoqXgvB2xvZRWsSB7q?usp=sharing
